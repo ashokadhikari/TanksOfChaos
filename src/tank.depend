@@ -1,0 +1,1076 @@
+# depslib dependency file v1.0
+1245411880 source:e:\program files\src\tank\sgraphics.cpp
+	"sGraphics.h"
+
+1246901880 e:\program files\src\tank\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_platform.h
+
+1199052374 e:\program files\sdl-1.2.13\include\begin_code.h
+
+1199052374 e:\program files\sdl-1.2.13\include\close_code.h
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_keysym.h
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1184950168 e:\program files\sdl-1.2.13\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1184993104 e:\program files\sdl-1.2.13\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1244558384 source:e:\program files\src\tank\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1244557385 e:\program files\src\tank\sinput.h
+
+1245065632 source:e:\program files\src\tank\ssound.cpp
+	"sSound.h"
+
+1245065632 e:\program files\src\tank\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1184956580 e:\program files\sdl-1.2.13\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 e:\program files\sdl-1.2.13\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1246969111 source:e:\program files\src\tank\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	<string>
+
+1246906367 e:\program files\src\tank\game.h
+	<SDL.h>
+	<string>
+
+1246952328 source:e:\program files\src\tank\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1246803809 e:\program files\src\tank\globals.h
+	<SDL.h>
+
+1247070781 source:f:\sources\tank1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	<string>
+
+1246901882 f:\sources\tank1\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 f:\sources\tank1\sinput.h
+
+1245065634 f:\sources\tank1\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1246906368 f:\sources\tank1\game.h
+	<SDL.h>
+	<string>
+
+1245411882 source:f:\sources\tank1\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:f:\sources\tank1\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:f:\sources\tank1\ssound.cpp
+	"sSound.h"
+
+1246952330 source:f:\sources\tank1\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1246803810 f:\sources\tank1\globals.h
+	<SDL.h>
+
+1245411882 source:f:\sources\tank2\sgraphics.cpp
+	"sGraphics.h"
+
+1246901882 f:\sources\tank2\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244558386 source:f:\sources\tank2\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1244557386 f:\sources\tank2\sinput.h
+
+1245065634 source:f:\sources\tank2\ssound.cpp
+	"sSound.h"
+
+1245065634 f:\sources\tank2\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1247468807 source:f:\sources\tank2\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	<string>
+
+1248015285 f:\sources\tank2\game.h
+	<SDL.h>
+	<string>
+
+1247122545 source:f:\sources\tank2\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1246803810 f:\sources\tank2\globals.h
+	<SDL.h>
+
+1245411882 source:f:\sources\tank3\sgraphics.cpp
+	"sGraphics.h"
+
+1246901882 f:\sources\tank3\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244558386 source:f:\sources\tank3\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1244557386 f:\sources\tank3\sinput.h
+
+1245065634 source:f:\sources\tank3\ssound.cpp
+	"sSound.h"
+
+1245065634 f:\sources\tank3\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1248029835 source:f:\sources\tank3\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	<string>
+
+1248030373 f:\sources\tank3\game.h
+	<SDL.h>
+	<string>
+
+1248030754 source:f:\sources\tank3\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1246803810 f:\sources\tank3\globals.h
+	<SDL.h>
+
+1249451142 source:e:\program files\src\project tree\tank4\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1246901882 e:\program files\src\project tree\tank4\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 e:\program files\src\project tree\tank4\sinput.h
+
+1245065634 e:\program files\src\project tree\tank4\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249451142 e:\program files\src\project tree\tank4\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1245411882 source:e:\program files\src\project tree\tank4\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:e:\program files\src\project tree\tank4\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:e:\program files\src\project tree\tank4\ssound.cpp
+	"sSound.h"
+
+1249422027 source:e:\program files\src\project tree\tank4\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249413411 e:\program files\src\project tree\tank4\globals.h
+	<SDL.h>
+
+1249450822 source:e:\program files\src\project tree\tank4\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1053016030 e:\program files\sdl-1.2.13\include\mersennetwister.h
+	<iostream>
+	<limits.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1249476980 source:e:\program files\src\project tree\tank5\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249476764 e:\program files\src\project tree\tank5\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1246901882 e:\program files\src\project tree\tank5\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 e:\program files\src\project tree\tank5\sinput.h
+
+1245065634 e:\program files\src\project tree\tank5\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249472668 e:\program files\src\project tree\tank5\globals.h
+	<SDL.h>
+
+1249480605 source:e:\program files\src\project tree\tank5\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1245411882 source:e:\program files\src\project tree\tank5\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:e:\program files\src\project tree\tank5\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:e:\program files\src\project tree\tank5\ssound.cpp
+	"sSound.h"
+
+1249477240 source:e:\program files\src\project tree\tank5\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249493314 source:f:\sources\tank5\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249493837 f:\sources\tank5\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1246901882 f:\sources\tank5\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 f:\sources\tank5\sinput.h
+
+1245065634 f:\sources\tank5\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249472668 f:\sources\tank5\globals.h
+	<SDL.h>
+
+1249494098 source:f:\sources\tank5\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1245411882 source:f:\sources\tank5\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:f:\sources\tank5\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:f:\sources\tank5\ssound.cpp
+	"sSound.h"
+
+1249493314 source:f:\sources\tank5\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249493314 source:f:\sources\tank5_2\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249493837 f:\sources\tank5_2\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1246901882 f:\sources\tank5_2\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 f:\sources\tank5_2\sinput.h
+
+1245065634 f:\sources\tank5_2\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249534415 f:\sources\tank5_2\globals.h
+	<SDL.h>
+
+1249534387 source:f:\sources\tank5_2\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1245411882 source:f:\sources\tank5_2\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:f:\sources\tank5_2\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:f:\sources\tank5_2\ssound.cpp
+	"sSound.h"
+
+1249534292 source:f:\sources\tank5_2\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249534460 source:f:\sources\tank5_2\menu.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"globals.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+	"menu.h"
+
+1249503304 f:\sources\tank5_2\menu.h
+
+1249493314 source:e:\program files\src\tank5_2_2\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249493837 e:\program files\src\tank5_2_2\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1246901882 e:\program files\src\tank5_2_2\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 e:\program files\src\tank5_2_2\sinput.h
+
+1245065634 e:\program files\src\tank5_2_2\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249534415 e:\program files\src\tank5_2_2\globals.h
+	<SDL.h>
+
+1249534602 source:e:\program files\src\tank5_2_2\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1245411882 source:e:\program files\src\tank5_2_2\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:e:\program files\src\tank5_2_2\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:e:\program files\src\tank5_2_2\ssound.cpp
+	"sSound.h"
+
+1249534292 source:e:\program files\src\tank5_2_2\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249578463 source:e:\program files\src\project tree\tank6\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249582074 e:\program files\src\project tree\tank6\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1249574590 e:\program files\src\project tree\tank6\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 e:\program files\src\project tree\tank6\sinput.h
+
+1245065634 e:\program files\src\project tree\tank6\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249575518 e:\program files\src\project tree\tank6\globals.h
+	<SDL.h>
+
+1249576954 source:e:\program files\src\project tree\tank6\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:e:\program files\src\project tree\tank6\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:e:\program files\src\project tree\tank6\ssound.cpp
+	"sSound.h"
+
+1249582609 source:e:\program files\src\project tree\tank6\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249575518 source:e:\program files\src\project tree\tank6\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"menu.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1249549312 e:\program files\src\project tree\tank6\menu.h
+
+1249582835 source:e:\program files\src\project tree\tank6\menu.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"globals.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+	"menu.h"
+
+1249632865 source:f:\sources\last\tank\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249582074 f:\sources\last\tank\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1249574590 f:\sources\last\tank\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 f:\sources\last\tank\sinput.h
+
+1245065634 f:\sources\last\tank\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249575518 f:\sources\last\tank\globals.h
+	<SDL.h>
+
+1249630938 source:f:\sources\last\tank\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"menu.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1249630794 f:\sources\last\tank\menu.h
+
+1249634270 source:f:\sources\last\tank\menu.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"globals.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+	"menu.h"
+
+1249633821 source:f:\sources\last\tank\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:f:\sources\last\tank\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:f:\sources\last\tank\ssound.cpp
+	"sSound.h"
+
+1249631763 source:f:\sources\last\tank\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249632865 source:f:\documents\c++\out\tank\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249582074 f:\documents\c++\out\tank\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1249574590 f:\documents\c++\out\tank\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 f:\documents\c++\out\tank\sinput.h
+
+1245065634 f:\documents\c++\out\tank\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249575518 f:\documents\c++\out\tank\globals.h
+	<SDL.h>
+
+1249630938 source:f:\documents\c++\out\tank\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"menu.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1249630794 f:\documents\c++\out\tank\menu.h
+
+1249634270 source:f:\documents\c++\out\tank\menu.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"globals.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+	"menu.h"
+
+1249716093 source:f:\documents\c++\out\tank\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:f:\documents\c++\out\tank\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:f:\documents\c++\out\tank\ssound.cpp
+	"sSound.h"
+
+1249716388 source:f:\documents\c++\out\tank\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249801290 source:j:\documents and settings\tomiferous\desktop\out\tank\game.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1249582076 j:\documents and settings\tomiferous\desktop\out\tank\game.h
+	<SDL.h>
+	<string>
+	"MersenneTwister.h"
+
+1249574592 j:\documents and settings\tomiferous\desktop\out\tank\sgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_TTF.h>
+
+1244557386 j:\documents and settings\tomiferous\desktop\out\tank\sinput.h
+
+1245065634 j:\documents and settings\tomiferous\desktop\out\tank\ssound.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1249575520 j:\documents and settings\tomiferous\desktop\out\tank\globals.h
+	<SDL.h>
+
+1249801773 source:j:\documents and settings\tomiferous\desktop\out\tank\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"menu.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+
+1249630796 j:\documents and settings\tomiferous\desktop\out\tank\menu.h
+
+1250611084 source:j:\documents and settings\tomiferous\desktop\out\tank\menu.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"game.h"
+	"globals.h"
+	"MersenneTwister.h"
+	<iostream>
+	<string>
+	"menu.h"
+
+1249716094 source:j:\documents and settings\tomiferous\desktop\out\tank\sgraphics.cpp
+	"sGraphics.h"
+
+1244558386 source:j:\documents and settings\tomiferous\desktop\out\tank\sinput.cpp
+	"sInput.h"
+	<SDL.h>
+
+1245065634 source:j:\documents and settings\tomiferous\desktop\out\tank\ssound.cpp
+	"sSound.h"
+
+1249716390 source:j:\documents and settings\tomiferous\desktop\out\tank\enemy.cpp
+	"game.h"
+	"sGraphics.h"
+	"sInput.h"
+	"sSound.h"
+	"globals.h"
+	<conio.h>
+	<fstream>
+	<iostream>
+	<string>
+

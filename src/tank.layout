@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="enemy.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="3003" topLine="9" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="12159" topLine="401" />
+	</File>
+	<File name="game.h" open="0" top="0" tabpos="3">
+		<Cursor position="2014" topLine="77" />
+	</File>
+	<File name="globals.h" open="0" top="0" tabpos="4">
+		<Cursor position="375" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="300" topLine="12" />
+	</File>
+	<File name="menu.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="7268" topLine="312" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="2">
+		<Cursor position="231" topLine="0" />
+	</File>
+	<File name="sGraphics.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="736" topLine="8" />
+	</File>
+	<File name="sGraphics.h" open="0" top="0" tabpos="6">
+		<Cursor position="322" topLine="5" />
+	</File>
+	<File name="sInput.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="715" topLine="0" />
+	</File>
+	<File name="sSound.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="423" topLine="0" />
+	</File>
+	<File name="sSound.h" open="0" top="0" tabpos="8">
+		<Cursor position="973" topLine="21" />
+	</File>
+</CodeBlocks_layout_file>
